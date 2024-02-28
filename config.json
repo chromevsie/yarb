@@ -7,7 +7,7 @@
 
     "rss": {
         "CustomRSS": {
-            "enabled": true,
+            "enabled": false,
             "filename": "CustomRSS.opml"
         },
         "CyberSecurityRSS": {
