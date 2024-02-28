@@ -1,21 +1,48 @@
 name: Push Messages to DingTalk  
 
-on:  
-  # 例如，当代码被推送到主分支时触发  
-  push:  
-    branches:  
-      - main  
+# 国际标准时间2点（北京时间10点）
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
-jobs:  
-  dingtalk-notification:  
-    runs-on: ubuntu-latest  
-    steps:  
-      - name: Send message to DingTalk  
-        id: dingtalk-message  
-        uses: haya14busa/action-dingtalk@v1  
-        with:  
-          webhook: ${{ secrets.DINGTALK_WEBHOOK }}  
-          message: Your custom message here.  
-          mentionAll: false # 是否@所有人  
-          mentionUserIds: '' # @指定的人，多个用逗号分隔  
-          mentionGroupIds: '' # @指定的组，多个用逗号分隔
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: ./install.sh
+
+      - name: Push articles
+        env:
+          DINGTALK_KEY: ${{ secrets.DINGTALK_KEY }}
+        run: python3 yarb.py
+
+      - name: Commit
+        run: |
+          git diff
+          git config --global user.email firmianay@gmail.com
+          git config --global user.name firmianay
+          git add archive today.md
+          git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ github.token }}
+
+  del_runs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 7
