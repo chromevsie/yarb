@@ -1,0 +1,21 @@
+name: Push Messages to DingTalk  
+
+on:  
+  # 例如，当代码被推送到主分支时触发  
+  push:  
+    branches:  
+      - main  
+
+jobs:  
+  dingtalk-notification:  
+    runs-on: ubuntu-latest  
+    steps:  
+      - name: Send message to DingTalk  
+        id: dingtalk-message  
+        uses: haya14busa/action-dingtalk@v1  
+        with:  
+          webhook: ${{ secrets.DINGTALK_WEBHOOK }}  
+          message: Your custom message here.  
+          mentionAll: false # 是否@所有人  
+          mentionUserIds: '' # @指定的人，多个用逗号分隔  
+          mentionGroupIds: '' # @指定的组，多个用逗号分隔
