@@ -1,5 +1,11 @@
 # 每日安全资讯（2024-02-28）
 
+- 小米安全中心
+  - [【MiSRC助力】重磅发布 | 《数据安全调研报告》](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247516452&idx=1&sn=95c746ba7435ba2857c3063aa4787487&chksm=ea83a7b1ddf42ea7263611afb67b2a931f220766f0f786e5251f5b2b241400966f05cc0c4a17&scene=58&subscene=0#rd)
+- 黑伞安全
+  - [Github安全工具分享：容器逃逸检测脚本](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488854&idx=1&sn=ee69c6a22c62891334f279e0445c595b&chksm=fb02980ecc7511182bb2420ea647d59487708d17a617a1602fb3cdf16f054a33d54faad5bd23&scene=58&subscene=0#rd)
+  - [长亭竟然搞网安培训了？](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488854&idx=2&sn=ec70e410ca47e5c55d1c121ad7af6fc2&chksm=fb02980ecc751118c8f87d7b63b62461f6ee3aa04f745e746b77d76669af785380f8fae4fa8b&scene=58&subscene=0#rd)
+  - [网络安全证书大全](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488854&idx=3&sn=b44572eee8af69dd04e9d6bd90c0cc9b&chksm=fb02980ecc75111844838969284c3cf640946c1a60a24f98d735657debdb7271d5b705bb51f1&scene=58&subscene=0#rd)
 - 中国信息安全
   - [《中华人民共和国保守国家秘密法》修订发布，5月1日起施行](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205739&idx=1&sn=7df10221f687ea0a542a3b71ae3a13ab&chksm=8b598f52bc2e06445983ff2e3ced8c6d60415733900a83d058350780a60f922b28041c56cf52&scene=58&subscene=0#rd)
   - [中央网信办：阔步迈向网络强国](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205739&idx=2&sn=2d0b9091ce0c7a3c030a3342c93b6064&chksm=8b598f52bc2e06445b2bf2081d5241acf6bb789bea08d1f10db2e8eb58619ab909704d4ec716&scene=58&subscene=0#rd)
@@ -7,6 +13,16 @@
   - [央视视频｜《人工智能：时代的机遇和挑战》之《出航》](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205739&idx=4&sn=91d1f9ed3c6d5a91bc3937bb655b34f1&chksm=8b598f52bc2e0644a67d98bef9931c2db58a1f9a1248411bf068bf81e0087f483479b87b234f&scene=58&subscene=0#rd)
   - [前沿 | 类 ChatGPT 大语言模型技术在资管领域应用展望](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205739&idx=5&sn=864607745e55ef03cc279743578e99ff&chksm=8b598f52bc2e064499e1924ed529da121872ace0d1c6a40cc47645012a810eabc25bc40155d5&scene=58&subscene=0#rd)
   - [专家观点 | 元宇宙“退潮”下的冷思考](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664205739&idx=6&sn=e1626947efbd3c783cb6840e917c3b07&chksm=8b598f52bc2e0644d4becadce61d901c78d1a864f6afc226f5e356664fdd3a7751e5f12ae12f&scene=58&subscene=0#rd)
+- 字节跳动安全中心
+  - [漏洞单价10万元！ByteSRC规则V6.0奖励计划叒升级！](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247492376&idx=1&sn=11fd3392c7e6456edf8452e18e031bb4&chksm=fa9d184ecdea915845c1a32070c66ed727a4e197c9b87b58f049f2c8a56dd5e16b38a32ca3fe&scene=58&subscene=0#rd)
+- 微步在线研究响应中心
+  - [漏洞通告 | aiohttp路径遍历漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247504751&idx=1&sn=f90c46b44fc0ea7706b98adfc3c342ee&chksm=cfcab07bf8bd396d1a6e98e9d80a82a83dfc64f5fa99b3df4128b26ad1393cf1c04ea15ee2dc&scene=58&subscene=0#rd)
+- 安全内参
+  - [网络攻击迫使这个带路国家暂停护照发放超两周](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511071&idx=1&sn=6d49887e98caa5b88141e49078b77c6a&chksm=ebfaeb3fdc8d622979936f675a0cdce9e07ee44192dc5de3805928c0044cd1c31024df52562b&scene=58&subscene=0#rd)
+  - [俄罗斯地方电网遭网络攻击大停电，涉事黑客被起诉](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511071&idx=2&sn=5fcdafa2b474cb2ee10cbc1b19ff223d&chksm=ebfaeb3fdc8d622960440b8dfe3ef32cc2146d539d83612a7a4136adea17ef21bc13af911659&scene=58&subscene=0#rd)
+- 安全牛
+  - [入侵和攻击模拟（BAS）技术应用实践及热门产品分析](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651128173&idx=1&sn=682f143e4bdaeb0966a9ea54931bfeb2&chksm=bd15b1be8a6238a85584697d289fec35427015282ba849c19cd7488a2876bc96456d985f3e63&scene=58&subscene=0#rd)
+  - [工信部印发《工业领域数据安全能力提升实施方案（2024-2026年）》](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651128173&idx=2&sn=dd2c821510be4543ec2a0a6bdc57f9ca&chksm=bd15b1be8a6238a8c87fb96827bb51a166c4255474b1d1599b455528a0f08e9599746a82173b&scene=58&subscene=0#rd)
 - 腾讯玄武实验室
   - [每日安全动态推送(2-27)](https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651959535&idx=1&sn=d7e3f1e095f9b1c97a79e842429646e4&chksm=8baed070bcd95966631e86a2d72f901fa9295048900a2d868314465284608223358cbece08bc&scene=58&subscene=0#rd)
 - 电子物证
@@ -15,29 +31,6 @@
 - 嘶吼专业版
   - [《鉴于止水·无行地难：工控安全行业应用专题报告 2024》报告调研召集令 | 嘶吼安全产业研究院](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573812&idx=1&sn=65036f2b577e9b8a3e55315cb6f9376b&chksm=e914710ede63f81846036e4eb7a521aec714d773bf88e92b66ee006b52d77c1822d469ae8d8a&scene=58&subscene=0#rd)
   - [Leaky Vessels 缺陷允许黑客逃离 Docker、runc 容器](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573812&idx=2&sn=550445d4f3dbe5c869b28813ad34a8ba&chksm=e914710ede63f818c13ceb20cfe3dae51e951f7d671668f707c96da32a2161d37afc54076e54&scene=58&subscene=0#rd)
-- 安全牛
-  - [入侵和攻击模拟（BAS）技术应用实践及热门产品分析](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651128173&idx=1&sn=682f143e4bdaeb0966a9ea54931bfeb2&chksm=bd15b1be8a6238a85584697d289fec35427015282ba849c19cd7488a2876bc96456d985f3e63&scene=58&subscene=0#rd)
-  - [工信部印发《工业领域数据安全能力提升实施方案（2024-2026年）》](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651128173&idx=2&sn=dd2c821510be4543ec2a0a6bdc57f9ca&chksm=bd15b1be8a6238a8c87fb96827bb51a166c4255474b1d1599b455528a0f08e9599746a82173b&scene=58&subscene=0#rd)
-- 小米安全中心
-  - [【MiSRC助力】重磅发布 | 《数据安全调研报告》](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247516452&idx=1&sn=95c746ba7435ba2857c3063aa4787487&chksm=ea83a7b1ddf42ea7263611afb67b2a931f220766f0f786e5251f5b2b241400966f05cc0c4a17&scene=58&subscene=0#rd)
-- 字节跳动安全中心
-  - [漏洞单价10万元！ByteSRC规则V6.0奖励计划叒升级！](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247492376&idx=1&sn=11fd3392c7e6456edf8452e18e031bb4&chksm=fa9d184ecdea915845c1a32070c66ed727a4e197c9b87b58f049f2c8a56dd5e16b38a32ca3fe&scene=58&subscene=0#rd)
-- 安全内参
-  - [网络攻击迫使这个带路国家暂停护照发放超两周](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511071&idx=1&sn=6d49887e98caa5b88141e49078b77c6a&chksm=ebfaeb3fdc8d622979936f675a0cdce9e07ee44192dc5de3805928c0044cd1c31024df52562b&scene=58&subscene=0#rd)
-  - [俄罗斯地方电网遭网络攻击大停电，涉事黑客被起诉](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247511071&idx=2&sn=5fcdafa2b474cb2ee10cbc1b19ff223d&chksm=ebfaeb3fdc8d622960440b8dfe3ef32cc2146d539d83612a7a4136adea17ef21bc13af911659&scene=58&subscene=0#rd)
-- 微步在线研究响应中心
-  - [漏洞通告 | aiohttp路径遍历漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247504751&idx=1&sn=f90c46b44fc0ea7706b98adfc3c342ee&chksm=cfcab07bf8bd396d1a6e98e9d80a82a83dfc64f5fa99b3df4128b26ad1393cf1c04ea15ee2dc&scene=58&subscene=0#rd)
-- SecWiki News
-  - [SecWiki News 2024-02-27 Review](http://www.sec-wiki.com/?2024-02-27)
-- 黑伞安全
-  - [Github安全工具分享：容器逃逸检测脚本](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488854&idx=1&sn=ee69c6a22c62891334f279e0445c595b&chksm=fb02980ecc7511182bb2420ea647d59487708d17a617a1602fb3cdf16f054a33d54faad5bd23&scene=58&subscene=0#rd)
-  - [长亭竟然搞网安培训了？](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488854&idx=2&sn=ec70e410ca47e5c55d1c121ad7af6fc2&chksm=fb02980ecc751118c8f87d7b63b62461f6ee3aa04f745e746b77d76669af785380f8fae4fa8b&scene=58&subscene=0#rd)
-  - [网络安全证书大全](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488854&idx=3&sn=b44572eee8af69dd04e9d6bd90c0cc9b&chksm=fb02980ecc75111844838969284c3cf640946c1a60a24f98d735657debdb7271d5b705bb51f1&scene=58&subscene=0#rd)
-- CNCERT国家工程研究中心
-  - [欧盟应急响应中心2023年度威胁回顾](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543134&idx=1&sn=4ead41bd931980b73c14068e8f761503&chksm=fa939f9fcde416895101b455755588d82658a3dace3d785520d9427f27f65e9b4c7df6399fc2&scene=58&subscene=0#rd)
-  - [网络攻击迫使上市公司电池工厂停产两周](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543134&idx=2&sn=5111c01a1b1b7c2c95b3d0260196a380&chksm=fa939f9fcde41689e1cf9de5d5c19b75af4f0f6c51cffd65b8e9ed3c32747a89c4532fe9173d&scene=58&subscene=0#rd)
-  - [服务器关闭 2 天后，与 LockBit 相关的勒索软件仍在传播](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543134&idx=3&sn=9db3989484c7b4343f6fcef4ee47b421&chksm=fa939f9fcde41689f683bc8388f84054ea0916af54cd776c2011c8f64e103d02be4444a868d9&scene=58&subscene=0#rd)
-  - [黑客利用PyPI 软件包传播 Nova Sentinel 恶意软件](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543134&idx=4&sn=612a2ff86a17174100f4dbe5298b8924&chksm=fa939f9fcde4168983639099678585bc3ed79f5282986ec4637acf4f102686854b9b6e71db8f&scene=58&subscene=0#rd)
 - FreeBuf网络安全行业门户
   - [《中华人民共和国保守国家秘密法》修订发布，5月1日正式实行](https://www.freebuf.com/news/392731.html)
   - [FreeBuf 早报 | 美“ReSCIND”探索项目启动；网络攻击迫使某电池工厂停产两周](https://www.freebuf.com/news/392699.html)
@@ -45,6 +38,11 @@
   - [图片也带”毒“了？ 黑客使用新技术推送 Remcos RAT](https://www.freebuf.com/news/392677.html)
   - [针对数十年的内存相关漏洞，ONCD发布新报告](https://www.freebuf.com/news/392666.html)
   - [全新WiFi安全漏洞曝光，可能影响全球23亿安卓用户](https://www.freebuf.com/news/392660.html)
+- CNCERT国家工程研究中心
+  - [欧盟应急响应中心2023年度威胁回顾](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543134&idx=1&sn=4ead41bd931980b73c14068e8f761503&chksm=fa939f9fcde416895101b455755588d82658a3dace3d785520d9427f27f65e9b4c7df6399fc2&scene=58&subscene=0#rd)
+  - [网络攻击迫使上市公司电池工厂停产两周](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543134&idx=2&sn=5111c01a1b1b7c2c95b3d0260196a380&chksm=fa939f9fcde41689e1cf9de5d5c19b75af4f0f6c51cffd65b8e9ed3c32747a89c4532fe9173d&scene=58&subscene=0#rd)
+  - [服务器关闭 2 天后，与 LockBit 相关的勒索软件仍在传播](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543134&idx=3&sn=9db3989484c7b4343f6fcef4ee47b421&chksm=fa939f9fcde41689f683bc8388f84054ea0916af54cd776c2011c8f64e103d02be4444a868d9&scene=58&subscene=0#rd)
+  - [黑客利用PyPI 软件包传播 Nova Sentinel 恶意软件](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247543134&idx=4&sn=612a2ff86a17174100f4dbe5298b8924&chksm=fa939f9fcde4168983639099678585bc3ed79f5282986ec4637acf4f102686854b9b6e71db8f&scene=58&subscene=0#rd)
 - paper - Last paper
   - [USB 设备开发：从入门到实践指南（一）](https://paper.seebug.org/3122/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
@@ -57,17 +55,3 @@
   - [工信部印发《工业领域数据安全能力提升实施方案（2024-2026年）》](https://www.aqniu.com/industry/102727.html)
   - [入侵和攻击模拟（BAS）技术应用实践及热门产品分析](https://www.aqniu.com/industry/102718.html)
   - [Fortinet 获评《Gartner混合式部署防火墙市场指南》代表厂商](https://www.aqniu.com/vendor/102714.html)
-- 安全客-有思想的安全新媒体
-  - [重保月，创宇盾护安全|创宇盾如何做好业务系统防护？](https://www.anquanke.com/post/id/293486)
-  - [黄仁勋建议年轻人不要浪费时间学编程了](https://www.anquanke.com/post/id/293483)
-  - [检测到 21 个新的恶意软件家族攻击 Mac 用户](https://www.anquanke.com/post/id/293473)
-  - [Nood RAT 攻击 Linux 服务器窃取敏感数据](https://www.anquanke.com/post/id/293471)
-  - [欧盟发布关于网络安全、通信网络弹性的综合风险评估报告](https://www.anquanke.com/post/id/293469)
-  - [UAC-0184 针对芬兰境内的乌克兰实体传播 Remcos RAT 恶意软件](https://www.anquanke.com/post/id/293466)
-  - [NIST 发布网络安全框架 2.0](https://www.anquanke.com/post/id/293463)
-  - [OWASP发布AI大模型应用网络安全治理检查清单v1.0](https://www.anquanke.com/post/id/293461)
-  - [工信部印发《工业领域数据安全能力提升实施方案 (2024—2026年)》](https://www.anquanke.com/post/id/293459)
-  - [WordPress 插件发现严重缺陷](https://www.anquanke.com/post/id/293457)
-  - [俄罗斯网络组织通过休眠帐户瞄准云基础设施](https://www.anquanke.com/post/id/293455)
-  - [6.7 万客户数据泄露：美国最大的卡车和拖车租赁网络遭到黑客攻击](https://www.anquanke.com/post/id/293453)
-  - [洛杉矶国际机场 VIP 客户成为大规模黑客攻击的受害者](https://www.anquanke.com/post/id/293451)
