@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head><title>CustomRSS</title></head>
+<body>
+       <outline text="XCTF联赛" title="XCTF联赛" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/4d448e1e341361f81e9dd715b84f4c324053251b.xml" htmlUrl="https://wechat2rss.xlab.app/feed/4d448e1e341361f81e9dd715b84f4c324053251b.xml"/>        
+</body>
+</opml>
